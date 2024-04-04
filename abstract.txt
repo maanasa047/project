@@ -3,8 +3,8 @@
 Team members:- 
 Jaya	              22R21A12D1
 T. Jyothi Sri 	    22R21A12J8
-A.Maanasa             22R21A12D0
-M.SruthiLaya         22R21A121G8
+A.Maanasa           22R21A12D0
+M.SruthiLaya        22R21A121G8
 Abstract:
 In online education platforms, a significant issue arises with student engagement and retention. Many students struggle to stay focused and motivated in remote learning environments, leading to decreased participation, completion rates, and overall learning outcomes. Additionally, the lack of personalized attention and interaction with instructors can hinder students' ability to grasp complex concepts and ask questions, further exacerbating the problem. To address the challenge of student engagement and retention in online education platforms, we propose a new project idea called "EduSphere: Engaging Online Learning Experience".
 "EduSphere" aims to provide an engaging online learning experience for students while ensuring a robust and scalable backend infrastructure to support the platform's functionality. For the frontend, we'll utilize modern web development technologies to create a user-friendly and interactive interface. On the backend, we'll employ a microservices architecture built with scalable and reliable technologies to handle user management, content delivery, analytics, and other essential functionalities. Students will get a pop up message regarding study materials and assessments when they are posted.
